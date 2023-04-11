@@ -45,7 +45,7 @@ user = g.get_user(username)
 
 all_repos_with_time= []
 prev_repos_with_time = []
-all_repos_with_time= TEST
+#all_repos_with_time= TEST
 
 new_repo_added = []
 
